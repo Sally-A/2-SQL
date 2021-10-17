@@ -1,0 +1,30 @@
+Auto
+    type
+        sub compact
+        economy
+        mid size
+        suv
+        truck
+
+Customer
+    name
+    address
+    phone number
+    drivers license number
+
+Reservation
+    City
+    auto type
+    pickup date
+    return date
+    phone number
+    rental rate
+
+return
+    return date
+    mileage
+    fuel tank
+    City
+    phone number
+
+

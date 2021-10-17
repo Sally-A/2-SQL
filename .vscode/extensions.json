@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "hediet.vscode-drawio",
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}
